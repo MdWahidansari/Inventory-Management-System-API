@@ -18,7 +18,7 @@ This project is a **backend-focused Inventory Management System API** built with
 ```bash
 git clone https://github.com/<YOUR_USERNAME>/Inventory-Management-System-API.git
 
-cd Inventory-Management-System-API/Backend
+cd Inventory-Management-System-API
 
 npm install
 
