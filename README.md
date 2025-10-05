@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory Management System API
 ## Overview
 This project is a **backend-focused Inventory Management System API** built with **Node.js, Express.js, and MongoDB**. It is designed to help manage warehouse products efficiently. You can create, update, delete products, manage stock quantities, and identify products that are running low on stock.
@@ -41,3 +42,6 @@ npm test
 -> Assumes stock_quantity and low_stock_threshold are non-negative numbers.
 -> .env is used for configurable environment variables.
 -> Unit tests mock Mongoose models to avoid database dependency during testing.
+=======
+# Inventory-Management-System-API
+>>>>>>> 83dd35c2c70d0e69b9f8a0f2bbd59513f886641a
